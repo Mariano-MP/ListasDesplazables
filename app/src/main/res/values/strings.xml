@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListasDesplazables</string>
+    <string name="desayuno">Avocado Toast</string>
+    <string name="hamburger">Hamburguesa Sirloin</string>
+    <string name="pizza">Pizza Margarita</string>
+    <string name="postre">Pastel de Chocolate</string>
+    <string name="pozole">Pozole Rojo</string>
+    <string name="tacos">Tacos de Pastor</string>
+    <string name="precioDesayuno">Avocado Toast</string>
+    <string name="precioHamburger">Hamburguesa Sirloin</string>
+    <string name="precioPizza">Pizza Margarita</string>
+    <string name="precioPostre">Pastel de Chocolate</string>
+    <string name="precioPozole">Pozole Rojo</string>
+    <string name="precioTacos">Tacos de Pastor</string>
+</resources>
