@@ -4,6 +4,7 @@ import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 
 data class Platillo(
-    @StringRes val stringResourceId: Int,
-    @DrawableRes val drawableResourceId: Int
+    @StringRes val nombreId: Int,
+    @DrawableRes val imagenId: Int,
+    @StringRes val precioId: Int
 )

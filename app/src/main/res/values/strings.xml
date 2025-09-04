@@ -6,10 +6,10 @@
     <string name="postre">Pastel de Chocolate</string>
     <string name="pozole">Pozole Rojo</string>
     <string name="tacos">Tacos de Pastor</string>
-    <string name="precioDesayuno">Avocado Toast</string>
-    <string name="precioHamburger">Hamburguesa Sirloin</string>
-    <string name="precioPizza">Pizza Margarita</string>
-    <string name="precioPostre">Pastel de Chocolate</string>
-    <string name="precioPozole">Pozole Rojo</string>
-    <string name="precioTacos">Tacos de Pastor</string>
+    <string name="precioDesayuno">199.99</string>
+    <string name="precioHamburger">289.99</string>
+    <string name="precioPizza">299.99</string>
+    <string name="precioPostre">119.99</string>
+    <string name="precioPozole">189.99</string>
+    <string name="precioTacos">89.99</string>
 </resources>

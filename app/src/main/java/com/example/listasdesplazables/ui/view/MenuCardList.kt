@@ -17,7 +17,7 @@ fun MenuCardList(
         items(platilloList){
             platillo -> MenuCard(
                 platillo = platillo,
-                modifier.padding(10.dp)
+                modifier.padding(1.dp)
             )
         }
     }
