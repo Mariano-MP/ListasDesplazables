@@ -32,7 +32,8 @@ fun MenuCard(
     ){
         Column{
             Box(
-                modifier = Modifier.fillMaxWidth(),
+                modifier = Modifier.fillMaxWidth()
+                    .padding(10.dp),
                 contentAlignment = Alignment.Center  // centra solo la imagen
             ) {
                 Image(
